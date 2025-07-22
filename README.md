@@ -1,2 +1,3 @@
-# ccalculator
-My first calculator made by JS.
+# Calculator
+
+My first calculator made by JavaScript.
